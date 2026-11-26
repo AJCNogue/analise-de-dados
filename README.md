@@ -1,1 +1,1 @@
-Este conjunto de exemplos reúne gráficos desenvolvidos como parte do meu processo de aprendizado em visualização de dados com Python — incluindo histograma, gráfico de densidade, gráfico de linhas e áreas, gráfico de barras, análises de distribuição, relação e correlação, e proporção. Na prática, utilizei pandas e numpy para preparar e estruturar os dados e matplotlib e seaborn para construir e explorar diferentes tipos de visualização.
+
